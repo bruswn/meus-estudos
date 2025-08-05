@@ -1,0 +1,47 @@
+Para aprender a programar, é necessário o estudo dos conceitos e fundamentos básicos de programação, a escolha de uma linguagem de programação
+e é claro, muita prática. Escolhi seguir os estudos com JavaScript.
+Nesses meses de aulas particulares, aprendi muito mais do que os últimos anos em sala de aula. 
+Espero, em breve, ter a oportunidade de  colocar em prática o que aprendi com os meus estudos e colher bons frutos, através da minha dedicação.
+
+Bom, para começar, é importante dizer que de nada adianta ficar estudando a teoria e não colocar os conhecimentos em prática.
+Então nessa pasta chamada de Revisões, colocarei a teoria nesse arquivo e criarei outros aonde colocarei exercícios e praticarei.
+
+Vamos  lá, Bruna.
+
+Lógica de Programação
+
+É apenas mais uma classificação de lógica, voltada para a programação. Nela estuda-se:
+Algoritmos, Estrutura de Dados (seus tipos, como são  armazenados e  manipulados, variáveis, operadores) e Estruturas de  Controle 
+(condicionais, repetições - loops - e desvios), arrays, matrizes, objetos, funções, entre outros.
+
+Algoritmo
+Nada mais é do que uma sequência finita e ordenada de passos bem definidos cujo objetivo é solucionar um problema, que nesse
+caso é computacional. É simples.
+
+Estrutura de Dados
+
+Dado é qualquer valor que pode ser armazenado, transmitido e processado pelo computador. Por exemplo, o número 42.  Em estado bruto, cru, ele não
+tem valor algum. Mas, quando esse valor é interpretado no contexto certo, ele se transforma em informação.
+
+Tipos de Dados na programação:
+- String (Letras, textos -  Estarão sempre sendo colocados "entre aspas");
+- Number (Números - inteiros (int) ou seja, números inteiros, que não tem vírgula, ou float, números com casas decimais, com vírgula);
+- Boolean (Verdadeiro (true) ou Falso (false));
+- Object (Agrupamento de dados diferentes (valores) em uma única unidade, usando pares chave-valor (chave: valor));
+- Arrays (É literalmente uma lista de dados)
+- Null/indefined (Ausência de valor)
+
+Estruturas de Controle
+
+Variáveis
+Imagine que estamos fazendo um jogo em um fliperama. O jogador seleciona um personagem e começa a jogar, ganhando pontos até terminar. Como acompanharíamos os pontos do jogador em nosso programa? Usando uma variável. Uma variável é um valor nomeado que podemos acessar e alterar. Armazena dados que podem ser manipulados e referenciados em todo o código.
+Variáveis mantém os dados dentro de nossos programas.
+As variáveis são uma parte fundamental da programação: elas permitem que você rastreie valores atribuindo nomes a eles. Depois de criar uma variável, podemos acessar e alterar seu valor em todo o nosso programa.
+
+
+Esse valor pode ser trocado durante a execução do programa — por isso o nome variável (porque varia)
+Imagina que você tem uma caixinha chamada idade, e dentro dela você coloca o número 18.
+let idade = 18;
+Depois, se a pessoa faz aniversário:
+idade = 19;
+Pronto! A variável idade mudou de valor. E é exatamente isso que ela faz: guarda um valor que pode mudar.
